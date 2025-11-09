@@ -1,0 +1,5 @@
+# Email Sender Application Requirements
+# Standard library modules (no external dependencies required)
+# tkinter - GUI framework (usually comes with Python)
+# smtplib - SMTP protocol client (standard library)
+# email - Email handling package (standard library)
