@@ -206,7 +206,7 @@ Feel free to use, modify, and distribute it for educational and personal purpose
 **Rudra Parmar**
 
 - GitHub: https://github.com/rudraparmar2310
-- LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
